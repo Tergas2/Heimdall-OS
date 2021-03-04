@@ -1,1 +1,1 @@
-# Heimdall-OS
+# Heimdall OS
